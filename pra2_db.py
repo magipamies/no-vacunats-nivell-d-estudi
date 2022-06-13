@@ -12,7 +12,7 @@ from os import path as pth
 
 import numpy as np
 
-work_f = r'C:\Users\mpamies\Dropbox\Server\Documents\Estudis\Geografia\Master\Base_Dades\VisuaDades\Practiques\PRA2\dades'
+work_f = r'dades'
 
 map_muni_f = pth.join(work_f, r'LimitsadministratiusmunicipalsdeCatalunya.geojson')
 
